@@ -2,6 +2,9 @@
 
 A machine learning project on NLP to detect different types of toxicity like threats, obscenity, insults, and identity-based hate in the comments given in the dataset.
 
+# Dataset 
+https://drive.google.com/drive/folders/1p3daTBgyWbVOAQ-4LuhzrNBUX21zONft?usp=sharing
+
 ## Description
 
 The dataset used in this project consists of three files present in the 'data' folder: `train.csv`, `test.csv`, and `test_labels.csv`. The data in the training set is in the form of comments which have been labeled by human raters for toxic behavior. These comments are classified into six types of toxicity: toxic, severe_toxic, obscene, threat, insult, and identity_hate.
